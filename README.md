@@ -1,6 +1,6 @@
-![MasterHead](https://wallpaperaccess.com/full/8901671.jpg)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Md. Tanvir Alam Anik</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir9832&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir9832" /> </p>
 
 - 🌱 I’m currently learning **React Native**
